@@ -22,7 +22,7 @@ The platform consists of multiple independent services working together:
 
 | Component | Repository | Description |
 |-----------|------------|-------------|
-|  Frontend |[(https://github.com/zied3332/waterfall-festival-website.git)e] | Public website and administrative dashboard built with React and TypeScript |
+|  Frontend |[(https://github.com/zied3332/waterfall-festival-website.git)] | Public website and administrative dashboard built with React and TypeScript |
 |  Backend |[(https://github.com/zied3332/waterfall-festival-backend.git) ] | NestJS REST API with authentication, event management, and PostgreSQL integration |
 
 ---
